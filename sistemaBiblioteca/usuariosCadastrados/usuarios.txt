@@ -1,7 +1,0 @@
-ID: 2556 | TIPO: 2 | NOME: Vinicius Raone dos Passos | LOGIN: Vini | SENHA: 1806
-ID: 69   | TIPO: 1 | NOME: ADMINISTRADOR | LOGIN: Adm | SENHA: adm123
-ID: 8443 | TIPO: 2 | NOME: Murilo Santos Telles | LOGIN: Murilo | SENHA: 2905
-ID: 1937 | TIPO: 2 | NOME: Rafael | LOGIN: rafa | SENHA: ram123
-ID: 7149 | TIPO: 2 | NOME: Gustavo | LOGIN: gu | SENHA : gu12
-ID: 6366 | TIPO: 2 | NOME: Gabriel | LOGIN: biel | SENHA : biel123
-
